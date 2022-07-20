@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/derryktheberge/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/derryktheberge/">
+    <img src="https://img.shields.io/badge/dtheberge.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
+  </a>
 <!--   <a href="https://www.youtube.com/channel/UCu1F7ZtjXnoukuTi3qyVjJQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
@@ -27,10 +30,10 @@
 </h1>
 
 ### :man_technologist: About Me :
-- :telescope: I’m a Master's student of CS, with edu in CS and Maths.
+- :books: I’m a Master's student of CS, with edu in CS and Maths.
 - :seedling: Starting to create a media presence, get into industry, and contributing to OpenSource projects.
-- :zap: In my free time, I do projects such as looking for OpenSource to contribute to or my own. ( Also Animal Crossing )
-- :mailbox:How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-DerrykTheberge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derryktheberge/)
+- :joystick: In my free time, I do projects such as looking for OpenSource to contribute to or my own. ( Also Animal Crossing )
+- :mailbox: How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-DerrykTheberge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derryktheberge/)
 
 ---
 
