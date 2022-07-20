@@ -54,7 +54,9 @@
 
 ---
 
+<!--
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dtheberge&theme=tokyonight_duo&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtheberge&layout=compact&theme=tokyonight_duo&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
