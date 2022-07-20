@@ -30,7 +30,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-- :books: I’m a Master's student of CS, with edu in CS and Maths.
+- :books: I’m a Master's student of CS, with undergradute education in CS and Maths.
 - :seedling: Starting to create a media presence, get into industry, and contributing to OpenSource projects.
 - :joystick: In my free time, I do projects such as looking for OpenSource to contribute to or my own. ( Also Animal Crossing )
 - :mailbox: How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-DerrykTheberge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derryktheberge/)
