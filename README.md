@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/derryktheberge/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.dtheberge.com/">
-    <img src="https://img.shields.io/badge/dtheberge.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
+    <a href="https://www.derryktheberge.com/">
+    <img src="https://img.shields.io/badge/derryktheberge.com-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
   </a>
 <!--   <a href="https://www.youtube.com/channel/UCu1F7ZtjXnoukuTi3qyVjJQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
